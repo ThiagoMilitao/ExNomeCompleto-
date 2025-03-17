@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\bin\Debug\net9.0\exnomecompleto-.exe
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\bin\Debug\net9.0\exnomecompleto-.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\bin\Debug\net9.0\exnomecompleto-.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\bin\Debug\net9.0\exnomecompleto-.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\bin\Debug\net9.0\exnomecompleto-.pdb
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\exnomecompleto-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\exnomecompleto-.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\exnomecompleto-.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\exnomecompleto-.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\exnomecompleto-.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\exnomecompleto-.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\refint\exnomecompleto-.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\exnomecompleto-.pdb
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\exnomecompleto-.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exnomecompleto-\obj\Debug\net9.0\ref\exnomecompleto-.dll
